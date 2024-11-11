@@ -1,0 +1,3 @@
+Punto = {(x:int),(y:int)}
+Auto = {(marca:String),(anio:int)}
+Persona = {(nombre:String),(edad:int)}
